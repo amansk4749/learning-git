@@ -9,5 +9,6 @@ public class App {
     public static void main(String[] args) {
         Arithmetic a = new Arithmetic();
         System.out.println(a.sum(5, 8));
+        System.out.println(a.sub(5, 8));
     }
 }
